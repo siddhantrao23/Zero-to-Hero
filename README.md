@@ -1,6 +1,6 @@
 # Zero to Hero ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Ananthavijay/Zero-to-Hero) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-This is a repo that contains C++ basics which will take you from Zero to Hero !
+This is a repository that contains C++ basics which will take you from basic to advance( Zero to Hero) !
 
 # C++ Installation Guide
 ### C++ Compiler installation on Windows
@@ -21,7 +21,7 @@ If for some reason it is not installed on your system, you can download it from 
 
 ### C++ Compiler installation on Mac
 
-Install Xcode development environment from Apple's website, to use GNU C/C++ compiler.
+Install Xcode development environment from Apple's Website, to use GNU C/C++ compiler.
 You can download Xcode from [developer.apple.com/technologies/tools.](https://developer.apple.com/xcode/)
 
 # Contributors :
@@ -57,4 +57,8 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 30. [Bevan V Thomas](https://github.com/Bevin7)
 31. [Anjali Kumari](https://github.com/Anjalikumari15) 
 32. [Sourov Sarkar](https://github.com/Leoperon)
-33. [Siddhant Rao](https://github.com/siddhantrao23)
+33. [ishak hari](https://github.com/ishakhari)
+34. [palak](https://github.com/developer22-university)
+35. [Siddhant Rao](https://github.com/siddhantrao23)
+
+
